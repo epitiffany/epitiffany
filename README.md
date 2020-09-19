@@ -4,15 +4,10 @@
 <img src="twitter.png" height = 45px width = 60px >
 </a>
 
-<a href="https://www.linkedin.com/in/epitiffany/">
-  <img src=" "
+<a href="https://linkedin.com/in/epitiffany">
+<img src="linkedin.png" height = 45px width = 60px >
 </a>
-- 🔭 I’m currently working on strengthening my knowledge in HTML, JavaScript, and CSS.
-- 🌱 I’m currently learning Python on the side from school.
-- 👯 I’m looking to collaborate on fun, impactful side projects. 
-- 👩🏻‍💻 I’m looking for an internship for Summer 2021 in Software Engineering! 
-- 💬 Ask me about ...
-- 📫 How to reach me: tiffanylam38@yahoo.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
--->
+
+<a href="mailto:tiffanylam38@yahoo.com">
+<img src="email.png" height = 60px width = 60px >
+</a>
