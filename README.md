@@ -1,4 +1,4 @@
-### .TIFF 👾
+<img src="pixel8bit.png">
 
 - 🔭 I’m currently working on strengthening my knowledge in HTML, JavaScript, and CSS.
 - 🌱 I’m currently learning Python on the side from school.
