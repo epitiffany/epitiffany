@@ -10,5 +10,9 @@
 
 
 <a href = "mailto:tiffanylam38@yahoo.com">
-  <img src = "mail.png" height = 70px width = 70px>
+  <img src = "mail.png" height = 65px width = 65px>
 </a>
+<br>
+
+My name's Tiffany and I'm a 2nd year ECE major at UT Austin. 
+I'm planning on graduating Fall 2022. 
