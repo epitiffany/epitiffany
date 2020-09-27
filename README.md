@@ -10,5 +10,5 @@
 
 
 <a href = "mailto:tiffanylam38@yahoo.com">
-  <img src = "mail.png" height = 55px width = 55px>
+  <img src = "mail.png" height = 70px width = 70px>
 </a>
