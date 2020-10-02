@@ -14,6 +14,6 @@
 </a>
 <br>
 
-<em>I'm a 2nd year ECE major at UT Austin. <br>
+<bold>I'm a 2nd year ECE major at UT Austin. <br>
 I'm looking for others to collaborate with on some fun side projects :) <br>
-I have knowledge in HTML, C, JavaScript, and CSS and am currently learning Python. </em> <br> 
+I have knowledge in HTML, C, JavaScript, and CSS and am currently learning Python. </bold> <br> 
