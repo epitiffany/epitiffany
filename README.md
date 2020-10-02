@@ -15,4 +15,3 @@
 <br>
 
 My name's Tiffany and I'm a 2nd year ECE major at UT Austin. 
-I'm planning on graduating Fall 2022. 
