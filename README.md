@@ -14,4 +14,6 @@
 </a>
 <br>
 
-My name's Tiffany and I'm a 2nd year ECE major at UT Austin. 
+I'm a 2nd year ECE major at UT Austin. 
+I'm looking for others to collaborate with on some fun side projects :)
+I have knowledge in HTML, C, JavaScript, and CSS and am currently learning Python.
