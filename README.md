@@ -16,4 +16,4 @@
 
 <strong>I'm a 2nd year ECE major at UT Austin. <br>
 I'm looking for others to collaborate with on some fun, meaningful side projects :) <br>
-I have knowledge in HTML, C, JavaScript, and CSS and am currently learning Python. </strong> <br> 
+I have knowledge in HTML, C, JavaScript, and CSS and am currently learning Python and Dart. </strong> <br> 
