@@ -1,4 +1,4 @@
-<img src = "pixel8bit.png">
+<img src = "halloweenpixel8.png">
 
 <a href = "https://twitter.com/epitiffany">
   <img src = "twitter.png" height = 45px width = 60px>
