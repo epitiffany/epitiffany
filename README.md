@@ -16,4 +16,5 @@
 
 <strong>I'm a 2nd year ECE major at UT Austin. <br>
 I'm looking for others to collaborate with on some fun, meaningful side projects :) <br>
+Some of my interests include Web Development, Natural Processing Language, and Game Development. <br>
 I have knowledge in HTML, C, JavaScript, and CSS and am currently learning Python and Dart. </strong> <br> 
